@@ -1,33 +1,15 @@
 ## Kurssin tehtävät
 
-### Viikko 3
+#### Viikko 2
 
-#### Frontend
+- [x] Palautettu ajoissa, klo 26.01.2025 19.32 | määräaika ma 27.1. klo 23.44
 
-- [ ] määräaika
+#### Viikko 1
 
-#### Backend
-
-- [ ] määräaika
-
-### Viikko 1
-
-#### Frontend
-
-- [x] Palautettu ajoissa | määräaika su 19.1. 23.44
-
-#### Backend
-
-- [x] Palautettu ajoissa | määräaika to 23.1. klo 12.59
+- [x] Palautettu ajoissa | määräaika su 19.1. klo 23.44
 
 ---
 
-### Viikko
-
-#### Frontend
-
-- [] määräaika
-
-#### Backend
+#### Viikko
 
 - [] määräaika
